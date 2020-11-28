@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(31, 23, 23);
+}
+div{
+    background-color: white;
+}
+#div1 {
+color: white;
+background-color: green;
+}
+#div2{
+    color: green;
+    background-color: greenyellow;
+}
+.para{
+    color: rgb(180, 179, 245);
+    background-color: white;
+}
+.para1{
+    background-color: blue;
+    text-align: end;
+}

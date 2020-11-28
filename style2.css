@@ -1,0 +1,42 @@
+
+
+ 
+ ul>li{
+     list-style: square;
+     color: red;
+ }
+ ol>li{
+     color:green;
+ }
+
+ div {
+     background-color: greenyellow;
+     width:600px;
+     border:solid black 2px;
+     margin:100px;
+     padding: 100px;
+
+ }
+
+ div + p {
+    background-color: black;
+    color: wheat;
+ }
+ 
+ a{ background-color: red;
+     color: red;
+ }
+
+a:visited{
+    background-color: magenta;
+   color:yellow;
+}
+
+div{
+    background-color: yellow;
+    width:"30px";
+    border:solid red 2px;
+    margin:50px;
+    padding:30px;
+    float:left;
+}

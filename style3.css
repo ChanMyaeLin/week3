@@ -1,0 +1,14 @@
+.row1{
+    background-color: yellow;
+    width:300px;
+    border:solid red 2px;
+    float:left;
+}
+.row{
+
+    clear:both;
+    background-color: yellow;
+    width:300px;
+    border:solid red 2px;
+    float:left;
+}
